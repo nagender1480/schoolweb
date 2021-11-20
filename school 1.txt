@@ -1,0 +1,4 @@
+<html>
+<head>
+<title>SCHOOL WEBSIT</TITLE>
+</HEAD><BODY>HELLO</BODY></HTML>
